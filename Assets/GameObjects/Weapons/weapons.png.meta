@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 56b01f93e9bbaa641a4d0c0e024d2760
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1098179606456428539
+    second: ak-47
+  - first:
+      213: 603087741676776888
+    second: Sawed-off
+  - first:
+      213: -4314303460151927774
+    second: AR-15
+  - first:
+      213: 6571829094651745138
+    second: fn-scar-h
+  - first:
+      213: -98050219634262077
+    second: L115A3
+  - first:
+      213: 7085873607936029209
+    second: UTS-15
+  - first:
+      213: 436344924093077750
+    second: Norinco-shotgun
+  - first:
+      213: 1418827463959415177
+    second: M2010
+  - first:
+      213: -4792471446707655164
+    second: Sniper-rifle
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ak-47
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 157
+        width: 744
+        height: 234
+      alignment: 9
+      pivot: {x: 0.44348294, y: 0.597037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e96e98848d3f00800000000000000
+      internalID: 1098179606456428539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sawed-off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 1941
+        height: 600
+      alignment: 9
+      pivot: {x: 0.49220335, y: 0.7625059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd69031b199e5800800000000000000
+      internalID: 603087741676776888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AR-15
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 738
+        width: 1002
+        height: 351
+      alignment: 9
+      pivot: {x: 0.3296862, y: 0.6640651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cd7647cd38024c0800000000000000
+      internalID: -4314303460151927774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fn-scar-h
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 1002
+        height: 350
+      alignment: 9
+      pivot: {x: 0.45121706, y: 0.5784923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735b471eb3d33b50800000000000000
+      internalID: 6571829094651745138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L115A3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 1002
+        height: 399
+      alignment: 9
+      pivot: {x: 0.39140728, y: 0.43337226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cffc8048d7a3aef0800000000000000
+      internalID: -98050219634262077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UTS-15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 971
+        height: 430
+      alignment: 9
+      pivot: {x: 0.53326184, y: 0.6713669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b75cf084165260800000000000000
+      internalID: 7085873607936029209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Norinco-shotgun
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 1002
+        height: 240
+      alignment: 9
+      pivot: {x: 0.517667, y: 0.6346567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8dc1885653e0600800000000000000
+      internalID: 436344924093077750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M2010
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1092
+        width: 1001
+        height: 349
+      alignment: 9
+      pivot: {x: 0.4698996, y: 0.49265724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898edaaf00b0b310800000000000000
+      internalID: 1418827463959415177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sniper-rifle
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 394
+        width: 980
+        height: 339
+      alignment: 9
+      pivot: {x: 0.3999975, y: 0.41518652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea9ce5c98bd7db0800000000000000
+      internalID: -4792471446707655164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

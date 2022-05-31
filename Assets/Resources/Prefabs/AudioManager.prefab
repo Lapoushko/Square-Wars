@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1380142587798267323
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1380142587798267461}
+  - component: {fileID: 1380142587798267460}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1380142587798267461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380142587798267323}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.45925158, y: -5.249508, z: 109.24219}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1380142587798267460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380142587798267323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af71a069304eca4782b3c71d4b69eb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: FireGun
+    clip: {fileID: 8300000, guid: 1f2838687d15514478f094f0ccbad98f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: DestroyBullet
+    clip: {fileID: 8300000, guid: 71a2afa9ef14404438715ce402405116, type: 3}
+    volume: 0.51
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Jump
+    clip: {fileID: 8300000, guid: f1bc375a11763ef4fa51455bd8153c70, type: 3}
+    volume: 0.755
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: FallDown
+    clip: {fileID: 8300000, guid: 62ae62ccf1e463e4eb73019ddd53ac7a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: InLava
+    clip: {fileID: 8300000, guid: bb95cdb4317517146aeb5a1212b8775c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Explosion
+    clip: {fileID: 8300000, guid: ef190bbd6ad68834d9127e580b832556, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ButtonMenu
+    clip: {fileID: 8300000, guid: fb1be620d0c8e9442939e762410ebb4e, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: GameSound
+    clip: {fileID: 8300000, guid: d33b07da9a72ff743bcad41566e08880, type: 3}
+    volume: 0.308
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Upgrade
+    clip: {fileID: 8300000, guid: 41f6c09b70e736647b699921173db794, type: 3}
+    volume: 0.325
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
